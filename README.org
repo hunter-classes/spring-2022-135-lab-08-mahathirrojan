@@ -1,10 +1,10 @@
 * Spring 2022 - Lab 08
 
-* Last name:
+* Last name: Rojan 
 
-* First name:
+* First name: Mahathir 
 
-* GitHub username:
+* GitHub username: @mahathirrojan 
 
 * Notes:
 
